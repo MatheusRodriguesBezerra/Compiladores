@@ -1,0 +1,8 @@
+bool is_prime(int n) {	
+    int x;
+    int y;   
+    
+    int temp;
+    x = 3 + y;
+    return x;
+}
